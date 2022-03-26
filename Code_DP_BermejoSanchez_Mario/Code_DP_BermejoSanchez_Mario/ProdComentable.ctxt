@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ProdComentable
+comment0.text=\ \r\n\ Nombre\ del\ grupo\:\ \r\n\ Mario_y_Kike.\r\n\ \r\n\ Nombre\ y\ Apellidos\ de\ cada\ alumno\:\r\n\ Mario\ Bermejo\ S\u00E1nchez.\r\n\ Enrique\ Moreno\ \u00C1vila.\r\n\ \r\n\ Esta\ clase\ trata\ de\ manejar\ todos\ los\ comentarios\ que\ se\ pueden\ hacer\ de\ un\ producto.\r\n
+comment1.params=id\ name\ Precio
+comment1.target=ProdComentable(int,\ java.lang.String,\ java.lang.Double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ProdComentable.\r\n\ Aqui\ se\ inicializan\ todos\ los\ atirbutos\ de\ la\ clase.\r\n\ @param\ id\ Se\ trata\ del\ ID\ del\ producto.\r\n\ @param\ name\ Se\ trata\ del\ nombre\ del\ producto.\r\n\ @param\ Precio\ Se\ trata\ del\ precio\ del\ producto.\r\n
+comment2.params=coment
+comment2.target=void\ realizarComentario(Comment)
+comment2.text=\r\n\ Este\ metodo\ a\u00F1ade\ un\ comentario\ de\ un\ cliente\ sobre\ el\ producto.\r\n\ @param\ coment\ Se\ trata\ del\ comentario\ realizado\ por\ el\ cliente.\r\n
+comment3.params=
+comment3.target=int\ comentariosTotales()
+comment3.text=\r\n\ Este\ metodo\ devuelve\ el\ numero\ total\ de\ comentarios\ sobre\ el\ producto.\r\n\ @return\ comentarios.size()\ Devuelve\ el\ numero\ de\ comentarios\ totales.\r\n
+comment4.params=i
+comment4.target=Comment\ devComentario(int)
+comment4.text=\r\n\ Este\ metodo\ devuelve\ un\ comentario\ de\ la\ lista\ segun\ una\ posicion\ dada.\r\n\ @param\ i\ Se\ trata\ del\ numero\ correspondiente\ al\ comentario\ en\ el\ ArrayList.\r\n\ @return\ comment\ Devuelve\ comentario\ de\ la\ lista\ segun\ una\ posicion\ dada.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Metodo\ toString\ (de\ mayor\ a\ menor).\r\n
+comment6.params=
+comment6.target=int\ hashCode()
+comment6.text=\r\n\ Hashcode\ technique\ taken\ from\r\n\ Effective\ Java\ by\ Joshua\ Bloch.\r\n\ Metodo\ que\ modifica\ el\ hashCode.\r\n
+comment7.params=obj
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Comment
+comment0.text=\ \r\n\ Nombre\ del\ grupo\:\ \r\n\ Mario_y_Kike.\r\n\ \r\n\ Nombre\ y\ Apellidos\ de\ cada\ alumno\:\r\n\ Mario\ Bermejo\ S\u00E1nchez.\r\n\ Enrique\ Moreno\ \u00C1vila.\r\n\ \r\n\ Esta\ clase\ almacena\ todo\ aquello\ relacionado\ con\ un\ comentario\ que\ un\ cliente\ puede\ realizar\ acerca\ de\ un\ producto\ en\ un\ stock\ manager.\r\n
+comment1.params=puntuacion\ nombreCliente\ comentario
+comment1.target=Comment(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ comentario.\r\n\ Este\ metodo\ inicializa\ los\ objetos\ de\ la\ clase\ comentario.\r\n\ @param\ puntuacion\ Se\ trata\ de\ la\ puntuacion\ del\ comentario.\r\n\ @param\ nombreCliente\ Se\ trata\ del\ nombre\ del\ cliente\ que\ va\ a\ poner\ el\ comentario.\r\n\ @param\ comentario\ Se\ trata\ del\ comentario\ que\ va\ a\ realizar\ el\ cliente.\r\n
+comment2.params=
+comment2.target=int\ getPuntuacion()
+comment2.text=\r\n\ Este\ metodo\ devuelve\ la\ puntuacion\ dada\ a\ un\ comentario.\r\n\ @return\ puntuacion\ Puntuacion\ del\ comentario.\ Entre\ 1\ y\ 5.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombreCliente()
+comment3.text=\r\n\ Este\ metodo,\ devuelve\ el\ nombre\ del\ cliente\ que\ realizo\ el\ comentario.\r\n\ @return\ nombreCliente\ Nombre\ del\ cliente\ que\ realizo\ el\ comentario.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getComentario()
+comment4.text=\r\n\ Este\ metodo,\ devuelve\ el\ comentario\ realizado\ por\ un\ cliente.\r\n\ @return\ comentario\ Comentario\ realizado\ por\ el\ cliente.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Metodo\ que\ realiza\ toString.\r\n
+comment6.params=
+comment6.target=int\ hashCode()
+comment6.text=\r\n\ Hashcode\ technique\ taken\ from\r\n\ Effective\ Java\ by\ Joshua\ Bloch.\r\n\ Metodo\ que\ modifica\ el\ hashCode.\r\n
+comment7.params=obj
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\r\n\ Metodo\ que\ modifica\ el\ equals.\r\n
+numComments=8

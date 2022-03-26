@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ProdConLikes
+comment0.text=\ \r\n\ Nombre\ del\ grupo\:\ \r\n\ Mario_y_Kike.\r\n\ \r\n\ Nombre\ y\ Apellidos\ de\ cada\ alumno\:\r\n\ Mario\ Bermejo\ S\u00E1nchez.\r\n\ Enrique\ Moreno\ \u00C1vila.\r\n\ \r\n\ Interfaz\ para\ los\ productos\ que\ pueden\ tener\ likes\ y\ unlikes.\r\n\ Permite\ tener\ un\ numero\ negativo\ de\ likes.\r\n
+comment1.params=
+comment1.target=int\ getLikes()
+comment1.text=\r\n\ Devuelve\ el\ numero\ de\ likes\ del\ producto.\r\n\ @return\ Numero\ de\ likes\ totales\ del\ producto.\r\n
+comment2.params=
+comment2.target=void\ like()
+comment2.text=\r\n\ Metodo\ que\ suma\ en\ uno\ el\ numero\ de\ likes\ del\ producto.\ \ \r\n
+comment3.params=
+comment3.target=void\ unlike()
+comment3.text=\r\nResta\ uno\ el\ numero\ de\ likes\ del\ producto.\r\nPermite\ tener\ un\ numero\ negativo\ de\ likes.\r\n
+numComments=4

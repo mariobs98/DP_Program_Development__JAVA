@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Cliente_Vip
+comment0.text=\ \r\n\ Nombre\ del\ grupo\:\ \r\n\ Mario_y_Kike.\r\n\ \r\n\ Nombre\ y\ Apellidos\ de\ cada\ alumno\:\r\n\ Mario\ Bermejo\ S\u00E1nchez.\r\n\ Enrique\ Moreno\ \u00C1vila.\r\n\ \r\n\ Esta\ clase\ almacena\ el\ rol\ de\ un\ cliente\ estandar\ de\ un\ stock\ manager.\r\n\ Es\ decir,\ almacena\ sus\ datos,\ sus\ productos\ favoritos,etc.\r\n\ Ademas,\ contiene\ todas\ las\ operaciones\ de\ dicho\ tipo\ de\ cliente.\r\n
+comment1.params=nombre\ idCliente\ edad\ localidad
+comment1.target=Cliente_Vip(java.lang.String,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ cliente\ vip.\r\n\ Inicializa\ todos\ los\ atributos\ de\ dicha\ clase.\r\n\ @param\ nombre\ Se\ trata\ del\ nombre\ del\ cliente.\r\n\ @param\ idCliente\ Se\ trata\ del\ ID\ del\ cliente.\r\n\ @param\ edad\ Se\ trata\ de\ la\ edad\ del\ cliente.\r\n\ @param\ localidad\ Se\ trata\ de\ la\ ciudad\ en\ la\ que\ vive\ el\ cliente.\r\n
+comment2.params=
+comment2.target=void\ PrepararPedido()
+comment2.text=\r\nMetodo\ que\ prepara\ un\ pedido\ de\ todos\ los\ productos\ favoritos.\r\n
+comment3.params=writer
+comment3.target=void\ realizarPedido(java.io.FileWriter)
+comment3.text=\r\n\ Metodo\ que\ realiza\ un\ pedido\ de\ la\ lista\ de\ producto\ favoritos\ en\ el\ stock\ manager.\r\n\ @param\ writer\ utilizado\ para\ grabar\ las\ operaciones\ realizadas\ en\ el\ metodo.\r\n
+comment4.params=producto
+comment4.target=void\ RealizarComentarioCliente(Product)
+comment4.text=\r\n\ A\u00F1ade\ un\ comentario\ de\ un\ cliente\ sobre\ el\ producto.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Metodo\ que\ modifica\ el\ toString.\r\n
+comment6.params=
+comment6.target=int\ hashCode()
+comment6.text=\r\n\ Hashcode\ technique\ taken\ from\r\n\ Effective\ Java\ by\ Joshua\ Bloch.\r\n
+comment7.params=obj
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\r\n\ Metodo\ que\ modifica\ el\ equals.\r\n
+numComments=8

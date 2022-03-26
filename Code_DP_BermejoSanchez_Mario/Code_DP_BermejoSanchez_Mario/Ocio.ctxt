@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ocio
+comment0.text=\ \r\n\ Nombre\ del\ grupo\:\ \r\n\ Mario_y_Kike.\r\n\ \r\n\ Nombre\ y\ Apellidos\ de\ cada\ alumno\:\r\n\ Mario\ Bermejo\ S\u00E1nchez.\r\n\ Enrique\ Moreno\ \u00C1vila.\r\n\ \r\n\ Clase\ que\ maneja\ los\ productos\ de\ tipo\ Ocio.\r\n
+comment1.params=id\ name\ Precio
+comment1.target=Ocio(int,\ java.lang.String,\ java.lang.Double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ocio.\r\n\ @param\ id\ Se\ trata\ del\ identificador\ del\ producto.\r\n\ @param\ name\ Se\ trata\ del\ nombre\ del\ producto.\r\n\ @param\ Precio\ Se\ trata\ del\ precio\ del\ producto\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Metodo\ que\ hace\ el\ toString.\r\n
+comment3.params=
+comment3.target=int\ hashCode()
+comment3.text=\r\n\ Hashcode\ technique\ taken\ from\r\n\ Effective\ Java\ by\ Joshua\ Bloch.\r\n\ Metodo\ que\ modifica\ el\ hashCode.\r\n
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\r\n\ Metodo\ que\ modifica\ el\ equals.\r\n
+numComments=5

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=priceComparator
+comment0.text=\ \r\n\ Nombre\ del\ grupo\:\ \r\n\ Mario_y_Kike.\r\n\ \r\n\ Nombre\ y\ Apellidos\ de\ cada\ alumno\:\r\n\ Mario\ Bermejo\ S\u00E1nchez.\r\n\ Enrique\ Moreno\ \u00C1vila.\r\n\ \r\n\ Clase\ creada\ para\ poder\ realizar\ un\ comparator\ de\ precios\ de\ productos.\r\n
+comment1.params=p1\ p2
+comment1.target=int\ compare(Product,\ Product)
+numComments=2

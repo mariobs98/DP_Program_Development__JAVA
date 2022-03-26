@@ -1,0 +1,204 @@
+TURN: 1----------------------------------------------------------------------------------------
+ Rafa Nadal 1 32 Manacor 0.0 
+1 Nintendo Switch 300.0 4 2 
+
+2 Xbox One 220.0 5 2 
+
+The order can't be done for 1 Nintendo Switch 300.0 4 2 
+
+The order can't be done for 2 Xbox One 220.0 5 2 
+
+TURN: 2----------------------------------------------------------------------------------------
+ Carolina Marin 2 25 Huelva 0.0 
+1 Nintendo Switch 300.0 4 2 
+
+8 Barbecue 80.0 2 1 
+ garden 
+7 Lamp 17.0 5 2 
+ livingroom 
+20 Milk 0.6 100 50 December 
+The order is done for 1 Nintendo Switch 300.0 3 2 
+
+The order is done for 8 Barbecue 80.0 1 1 
+ garden 
+The order is done for 7 Lamp 17.0 4 2 
+ livingroom 
+The order is done for 20 Milk 0.6 99 50 December 
+TURN: 3----------------------------------------------------------------------------------------
+ Jose Manuel Calderon 3 37 Villanueva de la Serena 0.0 
+1 Nintendo Switch 300.0 3 2 
+4 Carolina Marin I really like this product 
+
+8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+ garden 
+The order can't be done for 1 Nintendo Switch 300.0 3 2 
+4 Carolina Marin I really like this product 
+
+The order can't be done for 8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+ garden 
+TURN: 4----------------------------------------------------------------------------------------
+ Laia Palau 4 39 Barcelona 0.0 
+1 Nintendo Switch 300.0 3 2 
+4 Carolina Marin I really like this product 
+
+The order can't be done for 1 Nintendo Switch 300.0 3 2 
+4 Carolina Marin I really like this product 
+
+TURN: 5----------------------------------------------------------------------------------------
+ Javier Guerra 5 35 Segovia 0.0 
+8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+ garden 
+The order is done for 8 Barbecue 80.0 0 1 
+4 Carolina Marin I really like this product 
+ garden 
+*************REPLENISHED 8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+ garden   REPLENISHED**********
+TURN: 6----------------------------------------------------------------------------------------
+ Ana Peleteiro 6 22 Riveira 0.0 
+9 Towel 9.0 10 5 
+ bathroom 
+20 Milk 0.6 99 50 December 
+2 Xbox One 220.0 5 2 
+
+19 Coffee 1.0 150 100 November 
+8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+ garden 
+18 Bread 1.2 50 25 December 
+The order is done for 9 Towel 9.0 9 5 
+ bathroom 
+The order is done for 20 Milk 0.6 98 50 December 
+The order is done for 2 Xbox One 220.0 4 2 
+
+The order is done for 19 Coffee 1.0 149 100 November 
+The order is done for 8 Barbecue 80.0 0 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+ garden 
+*************REPLENISHED 8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+ garden   REPLENISHED**********
+The order is done for 18 Bread 1.2 49 25 December 
+TURN: 7----------------------------------------------------------------------------------------
+ Rafa Nadal 1 32 Manacor 0.0 
+1 Nintendo Switch 300.0 3 2 
+4 Carolina Marin I really like this product 
+
+2 Xbox One 220.0 4 2 
+4 Ana Peleteiro I really like this product 
+
+The order can't be done for 1 Nintendo Switch 300.0 3 2 
+4 Carolina Marin I really like this product 
+
+The order can't be done for 2 Xbox One 220.0 4 2 
+4 Ana Peleteiro I really like this product 
+
+TURN: 8----------------------------------------------------------------------------------------
+ Carolina Marin 2 25 Huelva 397.6 
+1 Nintendo Switch 300.0 3 2 
+4 Carolina Marin I really like this product 
+
+8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+4 Ana Peleteiro I really like this product 
+ garden 
+7 Lamp 17.0 4 2 
+4 Carolina Marin I really like this product 
+ livingroom 
+20 Milk 0.6 98 50 December 
+The order is done for 1 Nintendo Switch 300.0 2 2 
+4 Carolina Marin I really like this product 
+
+The order is done for 8 Barbecue 80.0 0 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+4 Ana Peleteiro I really like this product 
+ garden 
+*************REPLENISHED 8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+4 Ana Peleteiro I really like this product 
+ garden   REPLENISHED**********
+The order is done for 7 Lamp 17.0 3 2 
+4 Carolina Marin I really like this product 
+ livingroom 
+The order is done for 20 Milk 0.6 97 50 December 
+TURN: 9----------------------------------------------------------------------------------------
+ Jose Manuel Calderon 3 37 Villanueva de la Serena 0.0 
+1 Nintendo Switch 300.0 2 2 
+4 Carolina Marin I really like this product 
+
+8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+4 Ana Peleteiro I really like this product 
+ garden 
+The order can't be done for 1 Nintendo Switch 300.0 2 2 
+4 Carolina Marin I really like this product 
+
+The order can't be done for 8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+4 Ana Peleteiro I really like this product 
+ garden 
+TURN: 10----------------------------------------------------------------------------------------
+ Laia Palau 4 39 Barcelona 0.0 
+1 Nintendo Switch 300.0 2 2 
+4 Carolina Marin I really like this product 
+
+The order can't be done for 1 Nintendo Switch 300.0 2 2 
+4 Carolina Marin I really like this product 
+
+SoldProducts:
+1 Nintendo Switch 300.0 2 2 
+4 Carolina Marin I really like this product 
+
+SoldProducts:
+2 Xbox One 220.0 4 2 
+4 Ana Peleteiro I really like this product 
+
+SoldProducts:
+7 Lamp 17.0 3 2 
+4 Carolina Marin I really like this product 
+ livingroom 
+SoldProducts:
+8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+4 Ana Peleteiro I really like this product 
+ garden 
+SoldProducts:
+9 Towel 9.0 9 5 
+4 Ana Peleteiro I really like this product 
+ bathroom 
+SoldProducts:
+18 Bread 1.2 49 25 December 
+SoldProducts:
+19 Coffee 1.0 149 100 November 
+SoldProducts:
+20 Milk 0.6 97 50 December 
+
+
+
+mostSoldProduct:
+8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+4 Ana Peleteiro I really like this product 
+ garden 
+mostCommentedProduct:
+8 Barbecue 80.0 1 1 
+4 Carolina Marin I really like this product 
+4 Javier Guerra I really like this product 
+4 Ana Peleteiro I really like this product 
+ garden 
+clientWhoSpentMore:
+ Carolina Marin 2 25 Huelva 795.2 
+END OF SIMULATION

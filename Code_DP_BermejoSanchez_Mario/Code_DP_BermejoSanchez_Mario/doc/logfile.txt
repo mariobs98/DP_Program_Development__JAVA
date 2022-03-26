@@ -1,0 +1,45 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Users\Kike\Desktop\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\Users\Kike\Desktop\bluej\lib\bluejcore.jar;C:\Users\Kike\Desktop\bluej\lib\junit-4.11.jar;C:\Users\Kike\Desktop\bluej\lib\hamcrest-core-1.3.jar;C:\Users\Kike\Desktop\bluej\lib\lang-stride.jar;C:\Users\Kike\Desktop\bluej\lib\javafx\lib\javafx.base.jar;C:\Users\Kike\Desktop\bluej\lib\javafx\lib\javafx.controls.jar;C:\Users\Kike\Desktop\bluej\lib\javafx\lib\javafx.fxml.jar;C:\Users\Kike\Desktop\bluej\lib\javafx\lib\javafx.graphics.jar;C:\Users\Kike\Desktop\bluej\lib\javafx\lib\javafx.media.jar;C:\Users\Kike\Desktop\bluej\lib\javafx\lib\javafx.properties.jar;C:\Users\Kike\Desktop\bluej\lib\javafx\lib\javafx.swing.jar;C:\Users\Kike\Desktop\bluej\lib\javafx\lib\javafx.web.jar;C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario
+-d
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\doc\StockManager.html...
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java:50: warning - @param argument "stockManager" is not a parameter name.
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java:119: warning - @param argument "producto" is not a parameter name.
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java:120: warning - @param argument "productoMasVendido" is not a parameter name.
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java:141: warning - @param argument "producto" is not a parameter name.
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java:163: warning - @param argument "Producto" is not a parameter name.
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java:164: warning - @param argument "prodCMC" is not a parameter name.
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java:186: warning - @param argument "Cliente" is not a parameter name.
+C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\StockManager.java:187: warning - @param argument "ClienteMG" is not a parameter name.
+Generating C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\doc\package-summary.html...
+Generating C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\doc\allclasses.html...
+Generating C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\doc\allclasses.html...
+Generating C:\Users\Kike\Desktop\enero_MorenoAvila_Enrique_BermejoSanchez_Mario\ec2_MorenoAvila_Enrique_BermejoSanchez_Mario\doc\index.html...
+8 warnings
